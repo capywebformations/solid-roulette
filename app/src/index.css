@@ -1,0 +1,10 @@
+/* CSS global pour l'application */
+body {
+  text-align: center;
+  align-items: center;
+}
+
+.App {
+  text-align: center;
+  width: 40%;
+}
